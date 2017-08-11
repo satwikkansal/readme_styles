@@ -37,7 +37,7 @@
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [Acknowldegements](#acknowledgements)
-- [Raw templates](#-that's-all-folks)
+- [Raw templates](#-thats-all-folks)
 
 
 ## Prerequisites
