@@ -309,3 +309,9 @@ reStructuredText (converted from the above markdown using [pandoc](https://pando
     - People who helped
     - References to code reused
 ```
+
+### Some Useful links
+
+- **Repo Badges:** https://github.com/dwyl/repo-badges and https://github.com/bevacqua/awesome-badges
+- **Create ASCII art from text:** http://patorjk.com/software/taag/
+- **License Badges:** https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba
