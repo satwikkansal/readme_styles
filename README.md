@@ -30,6 +30,15 @@
 
 // Body
 
+## Table of Contents
+
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [Acknowldegements](#acknowledgements)
+
+
 ## Prerequisites
 
 Mention what things you need to install the software and how to install them.
