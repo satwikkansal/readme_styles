@@ -1,3 +1,5 @@
+// A standard template taken from https://gist.github.com/PurpleBooth/b24679402957c63ec426
+
 # Contributing
 
 When contributing to this repository, please first discuss the change you wish to make via issue,
