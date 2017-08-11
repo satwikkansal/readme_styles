@@ -54,7 +54,7 @@ All patches welcome! Please read [CONTRIBUTING.md](link_to_contributing_file) fo
 
 ## License
 
-LICENSE NAME - see the [LICENSE.md](link_to_license_file) file for details
+LICENSE NAME - see the [LICENSE.md](https://github.com/atom/atom/blob/master/LICENSE) file for details
 
 // or
 
