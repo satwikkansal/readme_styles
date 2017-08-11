@@ -40,13 +40,23 @@ Add commands and links required.
 
 ## Installation
 
+Operating System:
+
 ```sh
-> describe the installation instructions
+> commands to install the project
+```
+
+Another OS:
+
+```sh
+$ commands to install the project
 ```
 
 ## Usage
 
 Basic usage instructions to help people to just get started using your project.
+
+For more examples and usage, please refer to the [Wiki](https://github.com/yourname/yourproject/wiki).
 
 ## Contributing
 
