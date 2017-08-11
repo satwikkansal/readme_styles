@@ -60,11 +60,11 @@ For more examples and usage, please refer to the [Wiki](https://github.com/yourn
 
 ## Contributing
 
-All patches welcome! Please read [CONTRIBUTING.md](link_to_contributing_file) for furthers details.
+All patches welcome! Please read [CONTRIBUTING.md](https://github.com/satwikkansal/readme_styles/blob/master/CONTRIBUTING.md) for furthers details.
 
 ## License
 
-LICENSE NAME - see the [LICENSE.md](https://github.com/atom/atom/blob/master/LICENSE) file for details
+LICENSE NAME - see the [LICENSE](https://github.com/atom/atom/blob/master/LICENSE) file for details
 
 // or
 
