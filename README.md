@@ -50,7 +50,8 @@
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [Acknowldegements](#acknowledgements)
-- [Raw templates](#-thats-all-folks)
+- **Raw templates:** [Markdown](#markdown) and [reStructuredText](#restructuredtext)
+- [Some Useful Links](#some-useful-links)
 
 
 ## Prerequisites
@@ -104,7 +105,7 @@ LICENSE NAME - see the [LICENSE](https://github.com/satwikkansal/readme_styles/b
 <h2 align="center"> That's all folks!</h2>
 <p align="center">Raw version in the Markdown and reStructuredText format are available below</p>
 
-Markdown:
+#### Markdown
 ```
     // Header Design 1
 
@@ -206,7 +207,9 @@ Markdown:
     - References to code reused
 ```
 
-reStructuredText (converted from the above markdown using [pandoc](https://pandoc.org/try/):
+#### reStructuredText
+
+Converted from the above markdown using [pandoc](https://pandoc.org/try/):
 ```
 ::
 
