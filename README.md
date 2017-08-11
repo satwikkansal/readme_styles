@@ -90,7 +90,7 @@ LICENSE NAME - see the [LICENSE](https://github.com/satwikkansal/readme_styles/b
 <h2 align="center"> That's all folks!</h2>
 <p align="center">Raw version of the markdown is available below</p>
 
-<pre>
+```
     // Header Design 1
 
     <h1 align="center">Project Name</h1>
@@ -177,4 +177,4 @@ LICENSE NAME - see the [LICENSE](https://github.com/satwikkansal/readme_styles/b
     - Inspiration
     - People who helped
     - References to code reused
-</pre>
+```
